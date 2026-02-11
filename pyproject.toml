@@ -6,7 +6,7 @@ authors = [
     {name = "Kolesnikova Anastasia",email = "nastya_kol@mail.ru"}
 ]
 readme = "README.md"
-requires-python = ">=2.7"
+requires-python = ">=3.13"
 dependencies = [
 ]
 
